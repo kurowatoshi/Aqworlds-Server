@@ -24,3 +24,5 @@ Acknowledgements:
 
 Contact:
 For inquiries or support, contact Atheros (jokowhy) at discord.
+
+CTTO : ATHEROS <3
